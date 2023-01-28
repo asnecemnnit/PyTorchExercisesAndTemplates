@@ -30,12 +30,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  -->
-<h3 align="center">PyTorchExercisesAndTemplates</h3>
+<h3 align="center">deeplearning_computervision_templates</h3>
 
-  <p align="left"> PyTorch exercises and templates. Goal is to:<br />
+  <p align="left"> Deep-Learning/Computer-Vision exercises and templates. Goal is to:<br />
   1. Add minimal code for basic deep learning functionalities, which could be directly used in various projects.<br />
   2. Have modularised code (Classes, Objects, different files for different functionalities).<br />
-  3. Have better understading of PyTorch.<br />
+  3. Have better understading of OpenCV, PyTorch and other deep-learning/computer-vision frameworks.<br />
   </p>
 </div>
 
