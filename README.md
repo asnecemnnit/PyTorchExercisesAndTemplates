@@ -30,12 +30,14 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  -->
-<h3 align="center">deeplearning_computervision_templates</h3>
+<h3 align="center">software_2_0_templates</h3>
 
-  <p align="left"> Deep-Learning/Computer-Vision exercises and templates. Goal is to:<br />
+  <p align="left">Exercises and templates for programming in Software 2.0. Goal of this repository is to:<br />
   1. Add minimal code for basic deep-learning/computer-vision functionalities, which could be directly used in various projects.<br />
   2. Have modularised code (Classes, Objects, different files for different functionalities).<br />
   3. Have better understanding of OpenCV, PyTorch and other deep-learning/computer-vision frameworks.<br />
+  4. Be in constant touch with Software 2.0 programming.<br />
+  For more information on Software 2.0, refer to this blogpost by https://github.com/karpathy on https://karpathy.medium.com/software-2-0-a64152b37c35
   </p>
 </div>
 
