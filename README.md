@@ -30,7 +30,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
  -->
-<h3 align="center">software_2_0_templates</h3>
+<h3 align="center">Software 2.0 Templates</h3>
 
   <p align="left">Exercises and templates for programming in Software 2.0. Goal of this repository is to:<br />
   1. Add minimal code for basic deep-learning/computer-vision functionalities, which could be directly used in various projects.<br />
