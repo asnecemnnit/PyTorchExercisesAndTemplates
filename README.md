@@ -39,6 +39,22 @@
   4. Be in constant touch with Software 2.0 programming.<br />
   For more information on Software 2.0, refer to this blogpost by https://github.com/karpathy on https://karpathy.medium.com/software-2-0-a64152b37c35
   </p>
+<h3 align="center">Some Important Concepts in Deep Learning (Computer Vision and Generative AI)</h3>
+<p align="left">Taken from https://www.linkedin.com/posts/tom-yeh_deeplearning-llms-generativeai-activity-7161408843111956480-ujq0?utm_source=share&utm_medium=member_desktop<br />
+<p align="center"> <img src="/gifs/[1] Vector Database.gif">
+<p align="center"> <img src="/gifs/[2] Self Attention.gif">
+<p align="center"> <img src="/gifs/[3] Transformer.gif">
+<p align="center"> <img src="/gifs/[4] GAN.gif">
+<p align="center"> <img src="/gifs/[5] LLM Sampling.gif">
+<p align="center"> <img src="/gifs/[6] Backpropagation.gif">
+<p align="center"> <img src="/gifs/[7] Autoencoder.gif">
+<p align="center"> <img src="/gifs/[8] Dropout.gif">
+<p align="center"> <img src="/gifs/[9] Batch Normalization.gif">
+<p align="center"> <img src="/gifs/[10] Mixture of Experts (MOEs).gif">
+<p align="center"> <img src="/gifs/[11] Recurrent Neural Network (RNN).gif">
+<p align="center"> <img src="/gifs/[12] Mamba.gif">
+<p align="center"> <img src="/gifs/[13] MLP in Pytorch.gif">
+<p align="center"> <img src="/gifs/[14] Matrix Multiplication.gif">
 </div>
 
 
